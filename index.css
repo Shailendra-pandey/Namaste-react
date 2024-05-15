@@ -45,4 +45,9 @@
 
 .res-logo {
   width: 100%;
+  height: 40%;
+}
+
+.top-res {
+  margin: 10px;
 }
